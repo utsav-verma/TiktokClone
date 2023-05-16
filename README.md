@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-Using Model View Architecture to design front-end and back-end
+Using Model View Controller Architecture to design front-end and back-end
 
 A few resources to get you started if this is your first Flutter project:
 
